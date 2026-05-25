@@ -1,4 +1,4 @@
-# Academic Portfolio — Assistant Professor
+# Academic Portfolio — Research Cum Teaching Fellow
 
 A fully responsive, dynamic single-page portfolio for faculty. Built with React, TypeScript, and Vite.
 

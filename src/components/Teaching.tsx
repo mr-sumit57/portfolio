@@ -11,7 +11,7 @@ export function Teaching() {
         <SectionTitle
           eyebrow="Instruction"
           title="Teaching"
-          subtitle="Courses taught at State University of Technology."
+          subtitle="Courses taught at Madan Mohan Malaviya University of Technology."
         />
         <div className="courses-grid">
           {courses.map((course, i) => (

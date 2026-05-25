@@ -72,20 +72,17 @@ export interface Grant {
 }
 
 export const profile: Profile = {
-  name: "Dr. Sumit Kumar",
-  title: "Assistant Professor",
-  department: "Department of Computer Science",
-  university: "State University of Technology",
+  name: "Mr. Sumit Kumar",
+  title: "Research Cum Teaching Fellow",
+  department: "Department of Information Technology & Computer Application",
+  university: "Madan Mohan Malaviya University of Technology",
   email: "mr.sumitmg@gmail.com",
-  office: "Engineering Building, Room 412",
-  phone: "+1 (555) 234-8901",
+  office: "Department of ITCA, Madan Mohan Malaviya University of Technology, Gorakhpur",
+  phone: "+91 9454054893",
   tagline:
     "Building trustworthy machine learning systems for healthcare, climate science, and public policy.",
-  bio: `I am an Assistant Professor in Computer Science, where I lead the Trustworthy ML Lab. My research sits at the intersection of machine learning, causal inference, and responsible AI deployment.
-
-Before joining SUT, I was a postdoctoral fellow at the Institute for Data Science and a Ph.D. graduate from MIT. I am passionate about mentoring students, open science, and translating rigorous methods into tools that practitioners can use with confidence.
-
-I welcome inquiries from prospective Ph.D. students, postdocs, and collaborators interested in interpretable models, distribution shift, and AI for social good.`,
+  bio: `SUMIT KUMAR received the B.Tech. degree in Computer Engineering from Babasaheb Bhimrao Ambedkar University (A Central University), Lucknow, Uttar Pradesh, India, and the M.Tech. degree in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh, India. He is currently pursuing the Ph.D. degree in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh, India.
+ His research focuses on the design, analysis, and optimization of modern communication networks, with particular interest in network performance, security, and emerging networking technologies.`,
   image:
     "./sp1.jpg",
   cvUrl: "./SumitCV.pdf",

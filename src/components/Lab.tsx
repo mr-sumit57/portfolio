@@ -33,8 +33,8 @@ export function Lab() {
           <div className="lab-lead card-accent">
             <div className="member-avatar lead">EV</div>
             <div>
-              <h3>Dr. Sumit Kumar</h3>
-              <p className="member-role">Principal Investigator · Assistant Professor</p>
+              <h3>Mr. Sumit Kumar</h3>
+              <p className="member-role">Principal Investigator · Research Cum Teaching Fellow</p>
               <p className="member-focus">
                 Trustworthy ML, causal inference, climate & health applications
               </p>
