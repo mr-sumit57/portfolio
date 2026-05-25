@@ -72,7 +72,7 @@ export interface Grant {
 }
 
 export const profile: Profile = {
-  name: "Dr. Elena M. Vasquez",
+  name: "Dr. Sumit Kumar",
   title: "Assistant Professor",
   department: "Department of Computer Science",
   university: "State University of Technology",
@@ -87,7 +87,7 @@ Before joining SUT, I was a postdoctoral fellow at the Institute for Data Scienc
 
 I welcome inquiries from prospective Ph.D. students, postdocs, and collaborators interested in interpretable models, distribution shift, and AI for social good.`,
   image:
-    "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=500&fit=crop&crop=faces",
+    "./sp1.jpg",
   cvUrl: "#",
   links: [
     { label: "Google Scholar", url: "https://scholar.google.com", icon: "scholar" },
