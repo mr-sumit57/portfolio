@@ -24,7 +24,7 @@ export function Header({ activeSection, theme, onToggleTheme }: HeaderProps) {
           onClick={() => scrollTo("home")}
           aria-label="Scroll to top"
         >
-          <span className="logo-mark">EV</span>
+          <span className="logo-mark">SK</span>
           <span className="logo-text">{profile.name.split(" ").slice(-2).join(" ")}</span>
         </button>
 

@@ -76,7 +76,7 @@ export const profile: Profile = {
   title: "Assistant Professor",
   department: "Department of Computer Science",
   university: "State University of Technology",
-  email: "e.vasquez@university.edu",
+  email: "mr.sumitmg@gmail.com",
   office: "Engineering Building, Room 412",
   phone: "+1 (555) 234-8901",
   tagline:
@@ -88,7 +88,7 @@ Before joining SUT, I was a postdoctoral fellow at the Institute for Data Scienc
 I welcome inquiries from prospective Ph.D. students, postdocs, and collaborators interested in interpretable models, distribution shift, and AI for social good.`,
   image:
     "./sp1.jpg",
-  cvUrl: "#",
+  cvUrl: "./SumitCV.pdf",
   links: [
     { label: "Google Scholar", url: "https://scholar.google.com", icon: "scholar" },
     { label: "ORCID", url: "https://orcid.org", icon: "orcid" },
