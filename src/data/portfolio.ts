@@ -87,11 +87,11 @@ export const profile: Profile = {
     "./sp1.jpg",
   cvUrl: "./SumitCV.pdf",
   links: [
-    { label: "Google Scholar", url: "https://scholar.google.com", icon: "scholar" },
-    { label: "ORCID", url: "https://orcid.org", icon: "orcid" },
-    { label: "GitHub", url: "https://github.com", icon: "github" },
-    { label: "LinkedIn", url: "https://linkedin.com", icon: "linkedin" },
-    { label: "Twitter / X", url: "https://twitter.com", icon: "twitter" },
+    { label: "Google Scholar", url: "https://scholar.google.com/citations?user=MDPDw3QAAAAJ&hl=en", icon: "scholar" },
+    { label: "ORCID", url: "https://orcid.org/0009-0009-4122-1743", icon: "orcid" },
+    { label: "GitHub", url: "https://mr-sumit57", icon: "github" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/mr-sumit57/", icon: "linkedin" },
+    //{ label: "Twitter / X", url: "https://twitter.com", icon: "twitter" },
   ],
 };
 
