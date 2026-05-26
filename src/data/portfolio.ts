@@ -97,21 +97,20 @@ export const profile: Profile = {
 
 export const education: Education[] = [
   {
-    degree: "Ph.D. in Computer Science",
-    institution: "Massachusetts Institute of Technology",
+    degree: "Ph.D.(Pursuing) in Information Technology",
+    institution: "Madan Mohan Malaviya University of Technology",
     year: "2019",
-    detail: "Thesis: Causal Structure Learning under Distribution Shift",
+    detail: "Thesis: Development of a Secure and Reliable Network Protocol for IoT Devices",
   },
   {
-    degree: "M.S. in Statistics",
-    institution: "Stanford University",
-    year: "2014",
+    degree: "M. Tech. in Information Technology",
+    institution: "Madan Mohan Malaviya University of Technology",
+    year: "2023",
   },
   {
-    degree: "B.S. in Mathematics & Computer Science",
-    institution: "University of California, Berkeley",
-    year: "2012",
-    detail: "Summa cum laude",
+    degree: "B.Tech. in Computer Engineering",
+    institution: "Babasaheb Bhimrao Ambedkar University",
+    year: "2021",
   },
 ];
 
