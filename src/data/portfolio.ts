@@ -99,7 +99,7 @@ export const education: Education[] = [
   {
     degree: "Ph.D.(Pursuing) in Information Technology",
     institution: "Madan Mohan Malaviya University of Technology",
-    year: "2019",
+    year: "2027",
     detail: "Thesis: Development of a Secure and Reliable Network Protocol for IoT Devices",
   },
   {
